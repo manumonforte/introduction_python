@@ -4,11 +4,11 @@ Repository used in order to share my knowledge of python
 
 Player X, Choose a position (row,column 1 - 3). 'exit' for exit: 1,1
 
-['X', ' ', ' ']
+['X', '  ', '  ']
 
-[' ', ' ', ' ']
+['  ', '  ', '  ']
 
-[' ', ' ', ' ']
+['  ', '  ', '  ']
 
 Player O, Choose a position (row,column 1 - 3). 'exit' for exit: 3,1
 
