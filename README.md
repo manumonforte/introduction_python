@@ -12,46 +12,60 @@ Player X, Choose a position (row,column 1 - 3). 'exit' for exit: 1,1
 
 Player O, Choose a position (row,column 1 - 3). 'exit' for exit: 3,1
 
-['X', ' ', ' ']
-[' ', ' ', ' ']
-['O', ' ', ' ']
+['X',' ',' ']
+
+[' ',' ',' ']
+
+['O',' ',' ']
 
 Player X, Choose a position (row,column 1 - 3). 'exit' for exit: 1,2
 
-['X', 'X', ' ']
-[' ', ' ', ' ']
-['O', ' ', ' ']
+['X','X',' ']
+
+[' ',' ',' ']
+
+['O',' ',' ']
 
 Player O, Choose a position (row,column 1 - 3). 'exit' for exit: 2,2
 
-['X', 'X', ' ']
-[' ', 'O', ' ']
-['O', ' ', ' ']
+['X','X',' ']
+
+[' ','O',' ']
+
+['O',' ',' ']
 
 Player X, Choose a position (row,column 1 - 3). 'exit' for exit: 2,1
 
-['X', 'X', ' ']
-['X', 'O', ' ']
-['O', ' ', ' ']
+['X','X',' ']
+
+['X','O',' ']
+
+['O',' ',' ']
 
 Player O, Choose a position (row,column 1 - 3). 'exit' for exit: 3,2
 
-['X', 'X', ' ']
-['X', 'O', ' ']
-['O', 'O', ' ']
+['X','X',' ']
+
+['X','O',' ']
+
+['O','O',' ']
 
 Player X, Choose a position (row,column 1 - 3). 'exit' for exit: 3,2
 Position 3,2 invalid
 
 Player X, Choose a position (row,column 1 - 3). 'exit' for exit: 3,3
 
-['X', 'X', ' ']
-['X', 'O', ' ']
-['O', 'O', 'X']
+['X','X',' ']
+
+['X','O',' ']
+
+['O','O','X']
 
 Player O, Choose a position (row,column 1 - 3). 'exit' for exit: 1,3
 
-['X', 'X', 'O']
-['X', 'O', ' ']
-['O', 'O', 'X']
+['X','X','O']
+
+['X','O',' ']
+
+['O','O','X']
 Player O has won!.
