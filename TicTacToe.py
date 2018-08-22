@@ -7,10 +7,6 @@ Created on Wed Aug 22 20:26:29 2018
 Console Game TIC TAC TOE
 """
 # -*- coding: utf-8 -*-
-"""
-Aquí se muestra una solución del programa tres en raya.
-@author: manugarri
-"""
 from collections import deque
 
 turn = deque(["O", "X"])
