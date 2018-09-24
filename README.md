@@ -1,5 +1,23 @@
 # introduction_python
-Repository used in order to share my knowledge of python
+Repository used in order to improve my knowledge of python.
+
+## Language
+
+* Python 3.6
+
+## Contributing
+
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+
+## Versioning
+
+We use [GitHub](https://github.com)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
 ## TIC-TAC-TOE Game
 
 Player X, Choose a position (row,column 1 - 3). 'exit' for exit: 1,1
@@ -69,3 +87,7 @@ Player O, Choose a position (row,column 1 - 3). 'exit' for exit: 1,3
 
 ['O','O','X']
 Player O has won!.
+
+## Authors
+
+* Manuel Monforte  [@manumonforte](https://github.com/manumonforte)
